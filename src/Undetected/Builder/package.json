@@ -1,0 +1,17 @@
+{
+  "name": "piratestealer",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.24.0",
+    "buffer-replace": "^1.0.0",
+    "glob": "^7.2.0",
+    "sync-request": "^6.1.0"
+  }
+}
